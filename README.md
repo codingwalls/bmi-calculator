@@ -3,8 +3,8 @@ Make a simple BMI Calculator with HTML, CSS and JavaScript which take Height and
 
 <h2>Output</h2>
 
-<img src="https://github.com/theritiktiwari/bmi-calculator/blob/main/Output.png" />
+<img src="https://github.com/codingwalls/bmi-calculator/blob/main/Output.png" />
 
 
 <h3>Link</h3>
-https://theritiktiwari.github.io/bmi-calculator/
+https://codingwalls.github.io/bmi-calculator/
